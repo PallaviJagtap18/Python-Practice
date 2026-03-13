@@ -1,5 +1,6 @@
 
 🐍 Python Basics
+
 Welcome to the Python Basics repository! This section covers the fundamental building blocks of Python programming — perfect for beginners getting started with the language
 
 ## 📚 Topics Covered
