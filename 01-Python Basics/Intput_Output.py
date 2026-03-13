@@ -29,7 +29,7 @@ print("Sum is:", sum)
 # 5. Formatted Output
 # Python allows formatted output for better readability.
 
-name = "Alice"
+name = "Prajakta"
 age = 20
 
 print(f"My name is {name} and I am {age} years old.")
