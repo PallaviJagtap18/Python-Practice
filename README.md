@@ -11,7 +11,7 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * Input & Output
 * Variables
 
-###2️⃣ Operators
+### 2️⃣ Operators
 * Arithmetic Operators
 * Comparison Operators
 * Logical Operators
