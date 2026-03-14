@@ -11,5 +11,14 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * Input & Output
 * Variables
 
-* 
+###2️⃣ Operators
+* Arithmetic Operators
+* Comparison Operators
+* Logical Operators
+* Assignment Operators
+* Bitwise Operator
+* Identity Operators
+* Membership Operators
+
+  
 > *"The best way to learn Python is to write Python."*
