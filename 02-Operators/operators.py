@@ -37,7 +37,7 @@ b = 20
 
 print( a > b and b > 30 )
 print( a > 5 or b > a )
-print( not ( a > 5 )  
+print(not ( a > 5 ) ) 
 
 # 4. Assignment Operators
 # Assignment operators are used to assign values to variables.
@@ -45,16 +45,16 @@ print( not ( a > 5 )
 x = 10
 
 x += 5
-print("x:")
+print(x)
 
 x -= 5 
-print("x:")
+print(x)
 
 x *= x
-print("x:")
+print(x)
 
 x /= 5
-print("x:")
+print(x)
 
 # 5. Bitwise Operators
 # Used to perform operations on binary numbers (bits).
@@ -66,8 +66,6 @@ print( a & b )       #Bitwise AND
 print( a | b )       #Bitwise OR 
 print( a ^ b )       #Bitwise XOR
 print(~ a )          #Bitwise NOT
-print( a << 1 )      #Left Shift
-print( a >> 1 )      #Right Shift
 
 # 6. Identity Operators
 # Used to compare the memory location of two objects.
