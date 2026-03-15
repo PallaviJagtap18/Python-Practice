@@ -44,12 +44,16 @@ print(word * 3)
 
 text = "hello python"
 word = "###python###"
+str1 = "Welcome to Python"
 
 print(text.upper())                       # Converts string to uppercase
 print(text.lower())                       # Converts string to lowercase
 print(text.replace("python", "world"))    #	Replaces part of a string
 print(word.strip("#"))                    # Removes spaces from beginning and end / remove particular part
 print(text.split())                       # Splits string into a list
+print(hello.capitalize())                 # First character of a string to uppercase and all remaining characters to lowercase.
+print(str1.center(50))                    # Align a string in the center of a specified width by adding padding characters (spaces by default) on both sides.
+print(str1.count(o))
 
 # String Length
 # The len() function is used to find the length of a string.
