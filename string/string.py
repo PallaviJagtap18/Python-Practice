@@ -51,9 +51,11 @@ print(text.lower())                       # Converts string to lowercase
 print(text.replace("python", "world"))    #	Replaces part of a string
 print(word.strip("#"))                    # Removes spaces from beginning and end / remove particular part
 print(text.split())                       # Splits string into a list
-print(hello.capitalize())                 # First character of a string to uppercase and all remaining characters to lowercase.
+print(str1.capitalize())                  # First character of a string to uppercase and all remaining characters to lowercase.
 print(str1.center(50))                    # Align a string in the center of a specified width by adding padding characters (spaces by default) on both sides.
-print(str1.count(o))
+print(str1.count("o"))                    # Returns the number of times a specified substring appears in a string.
+print(str1.find("to"))                    # Index position of the first occurrence of a specified substring in a string. not fount return -1.
+print(str1.isalnum())                     # All characters in a string are alphanumeric (letters and numbers) and returns True if they are, otherwise False.
 
 # String Length
 # The len() function is used to find the length of a string.
