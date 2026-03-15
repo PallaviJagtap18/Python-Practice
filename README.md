@@ -20,5 +20,12 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * Identity Operators
 * Membership Operators
 
+##  3️⃣ Strings
+* Accessing Characters
+* String Concatenation
+* String Repetition
+* Common String Methods
+* String Length
+* String Formatting
   
 > *"The best way to learn Python is to write Python."*
