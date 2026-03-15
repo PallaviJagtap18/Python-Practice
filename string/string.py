@@ -50,7 +50,7 @@ print(text.lower())                       # Converts string to lowercase
 print(text.replace("python", "world"))    #	Replaces part of a string
 print(word.strip("#"))                    # Removes spaces from beginning and end / remove particular part
 print(text.split())                       # Splits string into a list
-
+print(hello.capitalize())
 # String Length
 # The len() function is used to find the length of a string.
 
