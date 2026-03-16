@@ -18,8 +18,8 @@ else:
 # Example 2 
 
 import time 
-hour = int(time.strftime('%H))
-if (hour<12)
+hour = int(time.strftime('%H'))
+if (hour<12):
     print("Good Morning")
 elif(hour<17):
     print("Good Afternoon")
