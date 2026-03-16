@@ -27,5 +27,10 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * Common String Methods
 * String Length
 * String Formatting
+
+## 5️⃣ Control Flow
+* if else
+* if elif else
+* nested if
   
 > *"The best way to learn Python is to write Python."*
