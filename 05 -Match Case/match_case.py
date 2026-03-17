@@ -1,10 +1,10 @@
 # Match–Case 
 # It is used to compare a value against multiple patterns and execute the matching block of code, similar to a switch-case statement in other programming languages.
 
+# Example 1
 x= int(input("enter any number : "))
 
 match x:
-
     case 0:
         print("value of x is 0")
     case 1:
@@ -16,11 +16,11 @@ match x:
     case _ :
         print("invalid")
 
+# Example 2
 
 day = int(input("enter the day(1-7) : ")
 
 match day:
-
     case 1:
         print("monday")
     case 2:
