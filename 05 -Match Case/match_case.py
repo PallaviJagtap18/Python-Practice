@@ -1,23 +1,23 @@
 # Match–Case 
 # It is used to compare a value against multiple patterns and execute the matching block of code, similar to a switch-case statement in other programming languages.
 
-x= int(input("enter any number : "))
+# x= int(input("enter any number : "))
 
-match x:
+# match x:
 
-    case 0:
-        print("value of x is 0")
-    case 1:
-        print("value of x is 1")
-    case 2:
-        print("value of x is 2")
-    case 3:
-        print("value of x is 3")
-    case _ :
-        print("invalid")
+#     case 0:
+#         print("value of x is 0")
+#     case 1:
+#         print("value of x is 1")
+#     case 2:
+#         print("value of x is 2")
+#     case 3:
+#         print("value of x is 3")
+#     case _ :
+#         print("invalid")
 
 
-day = int(input("enter the day(1-7) : ")
+day = int(input("enter the day(1-7) : "))
 
 match day:
 
