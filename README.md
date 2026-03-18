@@ -33,6 +33,12 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * if elif else
 * nested if
 
-## 6️⃣ Match Case
+## 6️⃣ Match 
+
+## 7️⃣ Loops
+* break continue pass
+* for loop
+* while loop
+
   
 > *"The best way to learn Python is to write Python."*
