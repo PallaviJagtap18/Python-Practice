@@ -33,7 +33,7 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * if elif else
 * nested if
 
-## 6️⃣ Match 
+## 6️⃣ Match Case
 
 ## 7️⃣ Loops
 * break continue pass
