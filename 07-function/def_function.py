@@ -5,4 +5,4 @@ def sum(a,b):
   return a+b
 
 result = sum(5, 3)
-print("sum ", result)
+print("sum  = ", result)
