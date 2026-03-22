@@ -28,19 +28,22 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * String Length
 * String Formatting
 
-## 5️⃣ Control Flow
+## 4️⃣ Control Flow
+
 * if else
 * if elif else
 * nested if
 
-## 6️⃣ Match Case
+## 5️⃣ Match Case
 
-## 7️⃣ Loops
+## 6️⃣ Loops
+
 * break continue pass
 * for loop
 * while loop
 
-## 8️⃣ Functions
+## 7️⃣ Functions
+
 * Defining functions
 * Parameters & arguments
 
