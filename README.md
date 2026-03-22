@@ -40,5 +40,9 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * for loop
 * while loop
 
+## 8️⃣ Functions
+* Defining functions
+* Parameters & arguments
+
   
 > *"The best way to learn Python is to write Python."*
