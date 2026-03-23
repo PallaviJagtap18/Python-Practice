@@ -46,6 +46,7 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 
 * Defining functions
 * Parameters & arguments
+* Return values
 
   
 > *"The best way to learn Python is to write Python."*
