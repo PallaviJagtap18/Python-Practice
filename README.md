@@ -49,5 +49,8 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * Return values
 * Lambda Functions
 
+  ## 8️⃣ Data Structures
+  * Lists
+
   
 > *"The best way to learn Python is to write Python."*
