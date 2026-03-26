@@ -37,20 +37,19 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 ## 5️⃣ Match Case
 
 ## 6️⃣ Loops
-
 * break continue pass
 * for loop
 * while loop
 
 ## 7️⃣ Functions
-
 * Defining functions
 * Parameters & arguments
 * Return values
 * Lambda Functions
 
-  ## 8️⃣ Data Structures
-  * Lists
+## 8️⃣ Data Structures
+* Lists
+* tuples
 
   
 > *"The best way to learn Python is to write Python."*
