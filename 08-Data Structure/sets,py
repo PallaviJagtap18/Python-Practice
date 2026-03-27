@@ -1,0 +1,20 @@
+#  Sets
+# A set is a collection of:
+
+# Unordered elements
+# Unique values (no duplicates allowed)
+# Mutable
+
+my_set = {1, 2, 3}
+
+# Example
+
+nums = {1, 2, 2, 3}
+print(nums)   # {1, 2, 3}
+# Common Operations
+A = {1, 2, 3}
+B = {3, 4, 5}
+
+print(A | B)   # Union 
+print(A & B)   # Intersection 
+print(A - B)   # Difference
