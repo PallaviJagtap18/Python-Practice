@@ -51,6 +51,7 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * Lists
 * tuples
 * Sets
+* dictionaries
 
   
 > *"The best way to learn Python is to write Python."*
