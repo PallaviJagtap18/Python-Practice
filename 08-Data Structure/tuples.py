@@ -16,3 +16,10 @@ print(numbers[1])
 # Faster than lists
 # Cannot modify elements
 # Useful for fixed data
+
+# Important Note
+# numbers[0] = 100      error
+
+#  Tuple Packing & Unpacking
+a, b, c = (1, 2, 3)
+print(a, b, c)
