@@ -1,4 +1,5 @@
 # Example 1
+
 def apply_discount(price, discount):
 
     if not isinstance(price,(int,float)):
@@ -22,7 +23,8 @@ print(apply_discount(50, 0))
 print(apply_discount(0, 100))
 print(apply_discount(74.5, 20.0))
 
- # Example 2
+# Example 2
+
 full_dot = '●'
 empty_dot = '○'
 
