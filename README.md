@@ -57,5 +57,7 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * Import modules
 * Built-in Modules
 
+## Mini Projects
+
   
 > *"The best way to learn Python is to write Python."*
