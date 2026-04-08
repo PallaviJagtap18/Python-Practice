@@ -57,6 +57,9 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * Import modules
 * Built-in Modules
 
+## 🔟 File Handling
+* read files
+
 ## Mini Projects
 
   
