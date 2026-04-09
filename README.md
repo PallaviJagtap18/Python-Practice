@@ -59,6 +59,7 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 
 ## 🔟 File Handling
 * read files
+* write files
 
 ## Mini Projects
 
