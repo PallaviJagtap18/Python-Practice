@@ -60,6 +60,8 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 ## 🔟 File Handling
 * read files
 * write files
+* Create work with text & CSV files
+  
 
 ## Mini Projects
 
