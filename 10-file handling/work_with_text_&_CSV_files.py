@@ -14,11 +14,10 @@ with open("data.txt", "r") as file:
     print(file.read())
 
 # CSV Files (.csv)
+# CSV = Comma Separated Values
+# Used for storing tabular data (like Excel).
 
-CSV = Comma Separated Values
-Used for storing tabular data (like Excel).
-
-Python uses the built-in csv module.
+# Python uses the built-in csv module.
 
 # Writing CSV File:
 
