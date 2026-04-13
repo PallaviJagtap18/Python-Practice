@@ -4,6 +4,7 @@
 # Text files store plain text data.
 
 # Example:
+
 # Writing to text file
 
 with open("data.txt", "w") as file:
