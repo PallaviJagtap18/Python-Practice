@@ -61,7 +61,9 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * read files
 * write files
 * Create work with text & CSV files
-  
+
+## 11 Exception handling
+* try except 
 
 ## Mini Projects
 
