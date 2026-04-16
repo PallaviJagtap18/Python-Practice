@@ -5,13 +5,13 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 
 ## 📚 Topics Covered
 
-## 1️⃣ Introduction to Python
+## 1️ Introduction to Python
 * First Python program
 * Data types
 * Input & Output
 * Variables
 
-## 2️⃣ Operators
+## 2️ Operators
 * Arithmetic Operators
 * Comparison Operators
 * Logical Operators
@@ -20,7 +20,7 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * Identity Operators
 * Membership Operators
 
-##  3️⃣ Strings
+## 3️ Strings
 * Accessing Characters
 * String Concatenation
 * String Repetition
@@ -28,36 +28,36 @@ Welcome to the Python Basics repository! This section covers the fundamental bui
 * String Length
 * String Formatting
 
-## 4️⃣ Control Flow
+## 4️ Control Flow
 
 * if else
 * if elif else
 * nested if
 
-## 5️⃣ Match Case
+## 5️ Match Case
 
-## 6️⃣ Loops
+## 6️ Loops
 * break continue pass
 * for loop
 * while loop
 
-## 7️⃣ Functions
+## 7️ Functions
 * Defining functions
 * Parameters & arguments
 * Return values
 * Lambda Functions
 
-## 8️⃣ Data Structures
+## 8️ Data Structures
 * Lists
 * tuples
 * Sets
 * dictionaries
 
-## 9️⃣ Modules & Packages
+## 9️ Modules & Packages
 * Import modules
 * Built-in Modules
 
-## 🔟 File Handling
+## 10 File Handling
 * read files
 * write files
 * Create work with text & CSV files
